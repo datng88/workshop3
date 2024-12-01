@@ -52,15 +52,15 @@ Check the replacement parameters such as region, accountId, snsTopicName, s3Buck
 ```
 ![search](/images/5-lambda/5.1-createpolicy/policy-4.png)
 4. In the **Review and create** details:
-    - **Policy name:** `LambdaPolicy1                    `
-    - Choose **Create Policy**
+- **Policy name:** `LambdaPolicy1                    `
+- Choose **Create Policy**
 ![search](/images/5-lambda/5.1-createpolicy/policy-5.png)
 5. We continue create the second policy. In **Create policy** details:
-    - **Policy editor:** JSON
-    - Reuse the old code and edit
-    - Choose **Next**
+- **Policy editor:** JSON
+- Reuse the old code and edit
+- Choose **Next**
 ![search](/images/5-lambda/5.1-createpolicy/policy-6.png)
 6. In the **Review and create** details:
-    - **Policy name:** `LambdaPolicy2                    `
-    - Choose **Create Policy**
+- **Policy name:** `LambdaPolicy2                    `
+- Choose **Create Policy**
 ![search](/images/5-lambda/5.1-createpolicy/policy-7.png)
